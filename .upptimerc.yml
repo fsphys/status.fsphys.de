@@ -37,7 +37,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/fsphys/status.fsphys.de/master/assets/custom.css
+      href: https://cdn.jsdelivr.net/gh/fsphys/status.fsphys.de/assets/custom.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
