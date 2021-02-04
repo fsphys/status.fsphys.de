@@ -4,135 +4,149 @@
     "url": "https://fachschaft.physik.kit.edu",
     "icon": "https://favicons.githubusercontent.com/fachschaft.physik.kit.edu",
     "slug": "fs-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1225,
     "timeDay": 954,
     "timeWeek": 1148,
     "timeMonth": 1225,
     "timeYear": 1225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 4
+    }
   },
   {
     "name": "FS - GitLab",
     "url": "https://fs.physik.kit.edu/gitlab/",
     "icon": "https://favicons.githubusercontent.com/fs.physik.kit.edu",
     "slug": "fs-git-lab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 913,
     "timeDay": 849,
     "timeWeek": 896,
     "timeMonth": 913,
     "timeYear": 913,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 3
+    }
   },
   {
     "name": "FS - Mattermost",
     "url": "https://fsmm.physik.kit.edu/",
     "icon": "https://favicons.githubusercontent.com/fsmm.physik.kit.edu",
     "slug": "fs-mattermost",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 665,
     "timeDay": 674,
     "timeWeek": 659,
     "timeMonth": 665,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 3
+    }
   },
   {
     "name": "FS - Etherpad",
     "url": "https://fachschaft.physik.kit.edu/pad/",
     "icon": "https://favicons.githubusercontent.com/fachschaft.physik.kit.edu",
     "slug": "fs-etherpad",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 140,
     "timeDay": 136,
     "timeWeek": 138,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 2
+    }
   },
   {
     "name": "Platform - Jitsi",
     "url": "https://meet.physik.kit.edu",
     "icon": "https://favicons.githubusercontent.com/meet.physik.kit.edu",
     "slug": "platform-jitsi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 812,
     "timeDay": 736,
     "timeWeek": 797,
     "timeMonth": 812,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 2
+    }
   },
   {
     "name": "Platform - Matrix Webclient",
     "url": "https://matrix.physik.kit.edu",
     "icon": "https://favicons.githubusercontent.com/matrix.physik.kit.edu",
     "slug": "platform-matrix-webclient",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 683,
     "timeDay": 647,
     "timeWeek": 688,
     "timeMonth": 683,
     "timeYear": 683,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 1
+    }
   },
   {
     "name": "Platform - Landing Page",
     "url": "https://platform.physik.kit.edu",
     "icon": "https://favicons.githubusercontent.com/platform.physik.kit.edu",
     "slug": "platform-landing-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 653,
     "timeDay": 719,
     "timeWeek": 644,
     "timeMonth": 653,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 1
+    }
   },
   {
     "name": "Platform - CodiMD",
     "url": "https://platform.physik.kit.edu/codimd/",
     "icon": "https://favicons.githubusercontent.com/platform.physik.kit.edu",
     "slug": "platform-codi-md",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +155,8 @@
     "timeWeek": 272,
     "timeMonth": 279,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-04": 0
+    }
   }
 ]
