@@ -1,7 +1,7 @@
 url: https://fs.physik.kit.edu/gitlab/
-status: down
-code: 502
-responseTime: 559
-lastUpdated: 2021-02-04T18:45:47.160Z
+status: up
+code: 200
+responseTime: 1157
+lastUpdated: 2021-02-04T18:55:54.530Z
 startTime: Tue Jan 26 2021 16:09:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
