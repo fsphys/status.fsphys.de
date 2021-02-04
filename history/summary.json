@@ -24,19 +24,19 @@
     "url": "https://fs.physik.kit.edu/gitlab/",
     "icon": "https://favicons.githubusercontent.com/fs.physik.kit.edu",
     "slug": "fs-git-lab",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 890,
-    "timeDay": 777,
-    "timeWeek": 868,
-    "timeMonth": 890,
-    "timeYear": 890,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 906,
+    "timeDay": 872,
+    "timeWeek": 892,
+    "timeMonth": 906,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2021-02-04": 18
+      "2021-02-04": 28
     }
   },
   {
