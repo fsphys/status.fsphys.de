@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 1207,
-    "timeDay": 968,
-    "timeWeek": 1131,
-    "timeMonth": 1207,
-    "timeYear": 1207,
+    "time": 1186,
+    "timeDay": 935,
+    "timeWeek": 1077,
+    "timeMonth": 1186,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2021-02-04": 19
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/fs.physik.kit.edu",
     "slug": "fs-git-lab",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "98.02%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 906,
-    "timeDay": 872,
-    "timeWeek": 892,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 910,
+    "timeDay": 903,
+    "timeWeek": 883,
+    "timeMonth": 910,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2021-02-04": 28
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 648,
-    "timeDay": 552,
-    "timeWeek": 636,
-    "timeMonth": 648,
-    "timeYear": 648,
+    "time": 641,
+    "timeDay": 486,
+    "timeWeek": 606,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2021-02-04": 12
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 165,
-    "timeDay": 309,
-    "timeWeek": 172,
-    "timeMonth": 165,
-    "timeYear": 165,
+    "time": 161,
+    "timeDay": 294,
+    "timeWeek": 166,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2021-02-04": 12
     }
@@ -85,16 +85,16 @@
     "icon": "https://favicons.githubusercontent.com/meet.physik.kit.edu",
     "slug": "platform-jitsi",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "99.21%",
     "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 803,
-    "timeDay": 715,
-    "timeWeek": 787,
-    "timeMonth": 803,
-    "timeYear": 803,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 798,
+    "timeDay": 709,
+    "timeWeek": 765,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2021-02-04": 11
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 673,
-    "timeDay": 596,
-    "timeWeek": 673,
-    "timeMonth": 673,
-    "timeYear": 673,
+    "time": 666,
+    "timeDay": 555,
+    "timeWeek": 652,
+    "timeMonth": 666,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2021-02-04": 11
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 654,
-    "timeDay": 695,
-    "timeWeek": 647,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "time": 645,
+    "timeDay": 592,
+    "timeWeek": 626,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2021-02-04": 10
     }
@@ -145,16 +145,16 @@
     "icon": "https://favicons.githubusercontent.com/platform.physik.kit.edu",
     "slug": "platform-codi-md",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "99.31%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 274,
-    "timeDay": 241,
-    "timeWeek": 266,
-    "timeMonth": 274,
-    "timeYear": 274,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 270,
+    "timeDay": 208,
+    "timeWeek": 252,
+    "timeMonth": 270,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2021-02-04": 10
     }
