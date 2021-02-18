@@ -1,7 +1,7 @@
 url: https://fsmm.physik.kit.edu/
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2021-02-17T23:33:25.260Z
+status: down
+code: 502
+responseTime: 601
+lastUpdated: 2021-02-18T18:57:41.253Z
 startTime: Tue Jan 26 2021 16:09:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
