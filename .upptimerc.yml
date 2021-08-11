@@ -15,7 +15,7 @@ sites:
   - name: Platform - Jitsi
     url: https://meet.physik.kit.edu
   - name: Platform - Matrix Webclient
-    url: https://matrix.physik.kit.edu
+    url: https://element.physik.kit.edu/
   - name: Platform - Landing Page
     url: https://platform.physik.kit.edu
   - name: Platform - CodiMD
