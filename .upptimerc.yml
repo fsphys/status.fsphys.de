@@ -14,6 +14,8 @@ sites:
     url: https://fachschaft.physik.kit.edu/pad/
   - name: Platform - Jitsi
     url: https://meet.physik.kit.edu
+  - name: Platform - Matrix Server
+    url: https://matrix.physik.kit.edu/_synapse/admin/v1/server_version
   - name: Platform - Matrix Webclient
     url: https://element.physik.kit.edu/
   - name: Platform - Landing Page
