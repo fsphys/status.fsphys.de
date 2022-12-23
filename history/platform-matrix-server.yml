@@ -1,7 +1,7 @@
 url: https://matrix.physik.kit.edu/_synapse/admin/v1/server_version
 status: up
 code: 200
-responseTime: 409
-lastUpdated: 2022-12-22T23:05:02.340Z
+responseTime: 605
+lastUpdated: 2022-12-23T23:04:40.755Z
 startTime: Mon Nov 22 2021 20:30:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
