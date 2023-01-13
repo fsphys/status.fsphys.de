@@ -11,9 +11,9 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.11%",
     "time": 1170,
-    "timeDay": 2251,
-    "timeWeek": 926,
-    "timeMonth": 1630,
+    "timeDay": 922,
+    "timeWeek": 934,
+    "timeMonth": 1635,
     "timeYear": 1231,
     "dailyMinutesDown": {
       "2023-01-07": 88,
@@ -34,8 +34,7 @@
       "2022-03-12": 1134,
       "2022-03-05": 518,
       "2022-02-03": 18,
-      "2022-01-14": 878,
-      "2022-01-13": 161
+      "2022-01-14": 878
     }
   },
   {
@@ -49,11 +48,11 @@
     "uptimeWeek": "97.13%",
     "uptimeMonth": "97.11%",
     "uptimeYear": "98.96%",
-    "time": 1101,
-    "timeDay": 1234,
-    "timeWeek": 1030,
-    "timeMonth": 1025,
-    "timeYear": 1094,
+    "time": 1102,
+    "timeDay": 1456,
+    "timeWeek": 1073,
+    "timeMonth": 1040,
+    "timeYear": 1096,
     "dailyMinutesDown": {
       "2023-01-07": 88,
       "2023-01-06": 201,
@@ -68,8 +67,7 @@
       "2022-03-12": 1101,
       "2022-03-05": 478,
       "2022-02-03": 17,
-      "2022-01-14": 732,
-      "2022-01-13": 161
+      "2022-01-14": 732
     }
   },
   {
@@ -84,9 +82,9 @@
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.22%",
     "time": 710,
-    "timeDay": 1602,
-    "timeWeek": 782,
-    "timeMonth": 738,
+    "timeDay": 681,
+    "timeWeek": 776,
+    "timeMonth": 744,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2023-01-07": 87,
@@ -99,8 +97,7 @@
       "2022-03-12": 1101,
       "2022-03-05": 478,
       "2022-02-03": 17,
-      "2022-01-14": 803,
-      "2022-01-13": 161
+      "2022-01-14": 803
     }
   },
   {
@@ -109,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachschaft.physik.kit.edu.ico",
     "slug": "fs-etherpad",
     "status": "down",
-    "uptime": "98.85%",
+    "uptime": "98.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.78%",
-    "uptimeMonth": "82.06%",
-    "uptimeYear": "97.78%",
+    "uptimeWeek": "8.49%",
+    "uptimeMonth": "78.77%",
+    "uptimeYear": "97.50%",
     "time": 176,
-    "timeDay": 405,
-    "timeWeek": 251,
-    "timeMonth": 209,
+    "timeDay": 393,
+    "timeWeek": 270,
+    "timeMonth": 214,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2023-01-12": 1,
+      "2023-01-13": 1,
+      "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
       "2023-01-09": 1440,
@@ -136,8 +134,7 @@
       "2022-03-12": 1100,
       "2022-03-05": 477,
       "2022-02-03": 16,
-      "2022-01-14": 802,
-      "2022-01-13": 161
+      "2022-01-14": 802
     }
   },
   {
@@ -151,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 820,
-    "timeDay": 834,
-    "timeWeek": 649,
-    "timeMonth": 899,
-    "timeYear": 846,
+    "time": 821,
+    "timeDay": 1053,
+    "timeWeek": 707,
+    "timeMonth": 913,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2022-04-06": 50,
       "2022-02-03": 16
@@ -173,10 +170,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 699,
-    "timeDay": 829,
-    "timeWeek": 562,
-    "timeMonth": 583,
-    "timeYear": 731,
+    "timeDay": 797,
+    "timeWeek": 585,
+    "timeMonth": 595,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2022-04-06": 50,
       "2022-02-03": 15
@@ -193,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 571,
-    "timeDay": 829,
-    "timeWeek": 597,
-    "timeMonth": 719,
-    "timeYear": 585,
+    "time": 580,
+    "timeDay": 5101,
+    "timeWeek": 1250,
+    "timeMonth": 870,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2022-04-06": 49
     }
@@ -214,10 +211,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 723,
-    "timeDay": 825,
-    "timeWeek": 636,
-    "timeMonth": 831,
-    "timeYear": 760,
+    "timeDay": 807,
+    "timeWeek": 656,
+    "timeMonth": 837,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2022-04-06": 49
     }
@@ -234,9 +231,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 356,
-    "timeDay": 489,
-    "timeWeek": 356,
-    "timeMonth": 386,
+    "timeDay": 477,
+    "timeWeek": 370,
+    "timeMonth": 392,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2022-04-06": 48
