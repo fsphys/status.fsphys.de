@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1230,
-    "timeDay": 669,
-    "timeWeek": 1468,
-    "timeMonth": 1446,
-    "timeYear": 1334,
+    "time": 1231,
+    "timeDay": 1515,
+    "timeWeek": 1585,
+    "timeMonth": 1475,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2023-01-25": 33,
       "2023-01-07": 88,
@@ -29,8 +29,7 @@
       "2022-11-03": 17,
       "2022-10-24": 25,
       "2022-08-18": 16,
-      "2022-06-03": 20,
-      "2022-04-06": 52
+      "2022-06-03": 20
     }
   },
   {
@@ -45,10 +44,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 1157,
-    "timeDay": 633,
-    "timeWeek": 2148,
-    "timeMonth": 1372,
-    "timeYear": 1225,
+    "timeDay": 1084,
+    "timeWeek": 2179,
+    "timeMonth": 1382,
+    "timeYear": 1226,
     "dailyMinutesDown": {
       "2023-01-25": 56,
       "2023-01-07": 88,
@@ -58,8 +57,7 @@
       "2022-11-28": 479,
       "2022-11-22": 15,
       "2022-11-08": 20,
-      "2022-06-03": 20,
-      "2022-04-06": 52
+      "2022-06-03": 20
     }
   },
   {
@@ -74,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 826,
-    "timeDay": 415,
-    "timeWeek": 784,
-    "timeMonth": 1118,
+    "timeDay": 655,
+    "timeWeek": 671,
+    "timeMonth": 1125,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2023-01-25": 32,
@@ -84,8 +82,7 @@
       "2023-01-06": 185,
       "2022-12-17": 77,
       "2022-11-22": 15,
-      "2022-06-03": 20,
-      "2022-04-06": 51
+      "2022-06-03": 20
     }
   },
   {
@@ -94,18 +91,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachschaft.physik.kit.edu.ico",
     "slug": "fs-etherpad",
     "status": "down",
-    "uptime": "88.57%",
+    "uptime": "88.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.74%",
-    "time": 213,
-    "timeDay": 253,
-    "timeWeek": 298,
-    "timeMonth": 332,
-    "timeYear": 216,
+    "uptimeYear": "75.47%",
+    "time": 214,
+    "timeDay": 371,
+    "timeWeek": 315,
+    "timeMonth": 335,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-04-05": 1,
+      "2023-04-06": 1,
+      "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
@@ -198,8 +196,7 @@
       "2022-12-17": 76,
       "2022-11-03": 16,
       "2022-06-03": 20,
-      "2022-05-01": 46,
-      "2022-04-06": 51
+      "2022-05-01": 46
     }
   },
   {
@@ -214,13 +211,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 874,
-    "timeDay": 916,
-    "timeWeek": 1579,
-    "timeMonth": 1075,
-    "timeYear": 911,
+    "timeDay": 785,
+    "timeWeek": 1609,
+    "timeMonth": 1085,
+    "timeYear": 912,
     "dailyMinutesDown": {
-      "2023-01-25": 54,
-      "2022-04-06": 50
+      "2023-01-25": 54
     }
   },
   {
@@ -235,13 +231,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 745,
-    "timeDay": 384,
-    "timeWeek": 709,
-    "timeMonth": 1002,
+    "timeDay": 637,
+    "timeWeek": 742,
+    "timeMonth": 1010,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2023-01-25": 30,
-      "2022-04-06": 50
+      "2023-01-25": 30
     }
   },
   {
@@ -256,13 +251,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 631,
-    "timeDay": 381,
-    "timeWeek": 1193,
-    "timeMonth": 1069,
+    "timeDay": 637,
+    "timeWeek": 1216,
+    "timeMonth": 1077,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2023-01-25": 30,
-      "2022-04-06": 49
+      "2023-01-25": 30
     }
   },
   {
@@ -276,14 +270,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 811,
-    "timeDay": 483,
-    "timeWeek": 1226,
-    "timeMonth": 1181,
-    "timeYear": 880,
+    "time": 812,
+    "timeDay": 864,
+    "timeWeek": 1268,
+    "timeMonth": 1185,
+    "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-01-25": 29,
-      "2022-04-06": 49
+      "2023-01-25": 29
     }
   },
   {
@@ -298,13 +291,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 373,
-    "timeDay": 280,
-    "timeWeek": 356,
-    "timeMonth": 396,
-    "timeYear": 376,
+    "timeDay": 479,
+    "timeWeek": 384,
+    "timeMonth": 403,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-01-25": 29,
-      "2022-04-06": 48
+      "2023-01-25": 29
     }
   }
 ]
