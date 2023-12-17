@@ -11,18 +11,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1209,
-    "timeDay": 789,
-    "timeWeek": 965,
-    "timeMonth": 905,
-    "timeYear": 1059,
+    "timeDay": 800,
+    "timeWeek": 878,
+    "timeMonth": 904,
+    "timeYear": 1058,
     "dailyMinutesDown": {
       "2023-11-04": 675,
       "2023-07-08": 18,
       "2023-04-28": 26,
       "2023-01-25": 33,
       "2023-01-07": 88,
-      "2023-01-06": 215,
-      "2022-12-17": 78
+      "2023-01-06": 215
     }
   },
   {
@@ -35,11 +34,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 1118,
-    "timeDay": 767,
-    "timeWeek": 800,
-    "timeMonth": 785,
+    "uptimeYear": "99.65%",
+    "time": 1116,
+    "timeDay": 677,
+    "timeWeek": 747,
+    "timeMonth": 788,
     "timeYear": 1057,
     "dailyMinutesDown": {
       "2023-11-04": 674,
@@ -51,8 +50,7 @@
       "2023-04-28": 42,
       "2023-01-25": 56,
       "2023-01-07": 88,
-      "2023-01-06": 201,
-      "2022-12-17": 695
+      "2023-01-06": 201
     }
   },
   {
@@ -66,10 +64,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.99%",
-    "time": 816,
-    "timeDay": 427,
-    "timeWeek": 544,
-    "timeMonth": 545,
+    "time": 815,
+    "timeDay": 569,
+    "timeWeek": 519,
+    "timeMonth": 547,
     "timeYear": 731,
     "dailyMinutesDown": {
       "2023-11-04": 753,
@@ -111,8 +109,7 @@
       "2023-04-28": 26,
       "2023-01-25": 32,
       "2023-01-07": 87,
-      "2023-01-06": 185,
-      "2022-12-17": 77
+      "2023-01-06": 185
     }
   },
   {
@@ -121,18 +118,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/fachschaft.physik.kit.edu.ico",
     "slug": "fs-etherpad",
     "status": "down",
-    "uptime": "67.13%",
+    "uptime": "67.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "5.90%",
+    "uptimeYear": "5.62%",
     "time": 272,
-    "timeDay": 261,
-    "timeWeek": 312,
-    "timeMonth": 316,
+    "timeDay": 283,
+    "timeWeek": 295,
+    "timeMonth": 317,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-12-16": 26,
+      "2023-12-17": 29,
+      "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
@@ -476,8 +474,7 @@
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
-      "2023-01-06": 583,
-      "2022-12-17": 76
+      "2023-01-06": 583
     }
   },
   {
@@ -492,10 +489,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 830,
-    "timeDay": 551,
-    "timeWeek": 620,
-    "timeMonth": 632,
-    "timeYear": 744,
+    "timeDay": 608,
+    "timeWeek": 589,
+    "timeMonth": 637,
+    "timeYear": 743,
     "dailyMinutesDown": {
       "2023-07-25": 19,
       "2023-01-25": 54
@@ -507,18 +504,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.physik.kit.edu.ico",
     "slug": "platform-matrix-server",
     "status": "down",
-    "uptime": "81.89%",
+    "uptime": "81.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.64%",
-    "time": 861,
+    "uptimeYear": "62.36%",
+    "time": 863,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 712,
+    "timeYear": 711,
     "dailyMinutesDown": {
-      "2023-12-16": 26,
+      "2023-12-17": 29,
+      "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
@@ -665,18 +663,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/element.physik.kit.edu.ico",
     "slug": "platform-matrix-webclient",
     "status": "down",
-    "uptime": "86.55%",
+    "uptime": "86.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "62.64%",
-    "time": 727,
+    "uptimeYear": "62.36%",
+    "time": 728,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 713,
+    "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-12-16": 26,
+      "2023-12-17": 29,
+      "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
@@ -828,11 +827,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 854,
-    "timeDay": 501,
-    "timeWeek": 596,
-    "timeMonth": 645,
-    "timeYear": 784,
+    "time": 855,
+    "timeDay": 892,
+    "timeWeek": 609,
+    "timeMonth": 660,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2023-07-25": 16,
       "2023-01-25": 29
@@ -850,10 +849,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 365,
-    "timeDay": 296,
-    "timeWeek": 355,
-    "timeMonth": 361,
-    "timeYear": 364,
+    "timeDay": 336,
+    "timeWeek": 335,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2023-01-25": 29
     }
