@@ -10,18 +10,12 @@ sites:
     url: https://fs.physik.kit.edu/gitlab/
   - name: FS - Mattermost
     url: https://fsmm.physik.kit.edu/
-  - name: FS - Etherpad
-    url: https://fachschaft.physik.kit.edu/pad/
   - name: Platform - Jitsi
     url: https://meet.physik.kit.edu
-  - name: Platform - Matrix Server
-    url: https://matrix.physik.kit.edu/_synapse/admin/v1/server_version
-  - name: Platform - Matrix Webclient
-    url: https://element.physik.kit.edu/
   - name: Platform - Landing Page
     url: https://platform.physik.kit.edu
-  - name: Platform - CodiMD
-    url: https://platform.physik.kit.edu/codimd/
+  - name: Platform - HedgeDoc
+    url: https://platform.physik.kit.edu/hedgedoc/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
