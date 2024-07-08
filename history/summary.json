@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 921,
-    "timeDay": 1307,
-    "timeWeek": 1026,
-    "timeMonth": 965,
+    "timeDay": 1028,
+    "timeWeek": 980,
+    "timeMonth": 962,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2024-06-06": 25,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 861,
-    "timeDay": 1111,
-    "timeWeek": 900,
-    "timeMonth": 890,
+    "timeDay": 903,
+    "timeWeek": 857,
+    "timeMonth": 880,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2024-01-12": 27,
@@ -51,15 +51,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fsmm.physik.kit.edu.ico",
     "slug": "fs-mattermost",
     "status": "up",
-    "uptime": "97.15%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.05%",
     "time": 588,
-    "timeDay": 628,
-    "timeWeek": 624,
-    "timeMonth": 654,
+    "timeDay": 623,
+    "timeWeek": 586,
+    "timeMonth": 647,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2024-06-06": 40,
@@ -113,10 +113,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
-    "timeDay": 969,
-    "timeWeek": 795,
-    "timeMonth": 771,
-    "timeYear": 647,
+    "timeDay": 589,
+    "timeWeek": 728,
+    "timeMonth": 755,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2023-07-25": 19
     }
@@ -133,10 +133,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
-    "timeDay": 994,
-    "timeWeek": 748,
-    "timeMonth": 741,
-    "timeYear": 667,
+    "timeDay": 597,
+    "timeWeek": 714,
+    "timeMonth": 726,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2023-07-25": 16
     }
@@ -153,9 +153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 298,
-    "timeWeek": 238,
-    "timeMonth": 237,
+    "timeDay": 231,
+    "timeWeek": 223,
+    "timeMonth": 234,
     "timeYear": 241,
     "dailyMinutesDown": {}
   }
