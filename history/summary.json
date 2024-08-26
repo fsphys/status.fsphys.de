@@ -143,9 +143,9 @@
     "url": "https://platform.physik.kit.edu/hedgedoc/",
     "icon": "https://icons.duckduckgo.com/ip3/platform.physik.kit.edu.ico",
     "slug": "platform-hedge-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,6 +154,8 @@
     "timeWeek": 226,
     "timeMonth": 236,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-26": 0
+    }
   }
 ]
