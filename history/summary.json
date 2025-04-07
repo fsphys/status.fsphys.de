@@ -53,18 +53,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fsmm.physik.kit.edu.ico",
     "slug": "fs-mattermost",
     "status": "down",
-    "uptime": "94.18%",
+    "uptime": "94.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.37%",
+    "uptimeYear": "85.11%",
     "time": 614,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 737,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-04-07": 39,
+      "2025-04-07": 1380,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -147,10 +147,10 @@
     "url": "https://platform.physik.kit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/platform.physik.kit.edu.ico",
     "slug": "platform-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
@@ -158,16 +158,18 @@
     "timeWeek": 694,
     "timeMonth": 805,
     "timeYear": 736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 1
+    }
   },
   {
     "name": "Platform - HedgeDoc",
     "url": "https://platform.physik.kit.edu/hedgedoc/",
     "icon": "https://icons.duckduckgo.com/ip3/platform.physik.kit.edu.ico",
     "slug": "platform-hedge-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,6 +179,7 @@
     "timeMonth": 266,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2024-08-26": 19
     }
   }
