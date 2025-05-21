@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-05-21": 682,
+      "2025-05-21": 701,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
@@ -174,19 +174,19 @@
     "url": "https://meet.physik.kit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/meet.physik.kit.edu.ico",
     "slug": "platform-jitsi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 1108,
-    "timeWeek": 843,
-    "timeMonth": 761,
+    "time": 728,
+    "timeDay": 889,
+    "timeWeek": 822,
+    "timeMonth": 758,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2025-05-21": 0
+      "2025-05-21": 19
     }
   },
   {
