@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.93%",
-    "time": 1087,
-    "timeDay": 1132,
-    "timeWeek": 1441,
-    "timeMonth": 1275,
-    "timeYear": 1105,
+    "time": 1088,
+    "timeDay": 1874,
+    "timeWeek": 1503,
+    "timeMonth": 1301,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2026-05-07": 170,
       "2025-11-03": 218
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.96%",
-    "time": 1049,
-    "timeDay": 1129,
-    "timeWeek": 1405,
-    "timeMonth": 1201,
-    "timeYear": 1066,
+    "time": 1051,
+    "timeDay": 1826,
+    "timeWeek": 1522,
+    "timeMonth": 1230,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2026-05-07": 169,
       "2025-09-16": 46
@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fsmm.physik.kit.edu.ico",
     "slug": "fs-mattermost",
     "status": "down",
-    "uptime": "74.32%",
+    "uptime": "74.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-21": 111,
+      "2026-05-22": 113,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -421,8 +422,7 @@
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   },
   {
@@ -431,22 +431,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/meet.physik.kit.edu.ico",
     "slug": "platform-jitsi",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.54%",
+    "uptimeYear": "98.70%",
     "time": 927,
-    "timeDay": 924,
-    "timeWeek": 857,
-    "timeMonth": 927,
-    "timeYear": 984,
+    "timeDay": 1011,
+    "timeWeek": 904,
+    "timeMonth": 928,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2025-05-26": 1174,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   },
   {
@@ -461,9 +460,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 743,
-    "timeDay": 663,
-    "timeWeek": 605,
-    "timeMonth": 691,
+    "timeDay": 755,
+    "timeWeek": 625,
+    "timeMonth": 696,
     "timeYear": 744,
     "dailyMinutesDown": {}
   },
@@ -478,11 +477,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 589,
-    "timeWeek": 4257,
-    "timeMonth": 1317,
-    "timeYear": 334,
+    "time": 311,
+    "timeDay": 869,
+    "timeWeek": 751,
+    "timeMonth": 1340,
+    "timeYear": 335,
     "dailyMinutesDown": {}
   }
 ]
