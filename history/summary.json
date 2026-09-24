@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1204,
-    "timeDay": 1802,
-    "timeWeek": 1653,
-    "timeMonth": 1517,
+    "time": 1205,
+    "timeDay": 1496,
+    "timeWeek": 1615,
+    "timeMonth": 1522,
     "timeYear": 1245,
     "dailyMinutesDown": {
       "2025-11-03": 218,
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1163,
-    "timeDay": 1500,
-    "timeWeek": 1508,
-    "timeMonth": 1467,
+    "time": 1164,
+    "timeDay": 1341,
+    "timeWeek": 1505,
+    "timeMonth": 1469,
     "timeYear": 1204,
     "dailyMinutesDown": {
       "2026-05-07": 169
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fsmm.physik.kit.edu.ico",
     "slug": "fs-mattermost",
     "status": "down",
-    "uptime": "69.83%",
+    "uptime": "69.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -57,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-23": 114,
+      "2026-09-24": 103,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -420,8 +421,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -436,10 +436,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
-    "timeDay": 992,
-    "timeWeek": 1005,
-    "timeMonth": 925,
-    "timeYear": 967,
+    "timeDay": 771,
+    "timeWeek": 947,
+    "timeMonth": 927,
+    "timeYear": 966,
     "dailyMinutesDown": {}
   },
   {
@@ -453,11 +453,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 670,
+    "time": 730,
+    "timeDay": 834,
     "timeWeek": 666,
-    "timeMonth": 687,
-    "timeYear": 724,
+    "timeMonth": 698,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   },
   {
@@ -466,15 +466,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/platform.physik.kit.edu.ico",
     "slug": "platform-hedge-doc",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 841,
-    "timeWeek": 792,
-    "timeMonth": 761,
+    "time": 442,
+    "timeDay": 559,
+    "timeWeek": 738,
+    "timeMonth": 760,
     "timeYear": 516,
     "dailyMinutesDown": {}
   }
