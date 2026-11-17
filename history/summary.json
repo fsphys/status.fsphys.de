@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1263,
-    "timeDay": 1967,
-    "timeWeek": 1734,
-    "timeMonth": 1638,
-    "timeYear": 1326,
+    "time": 1265,
+    "timeDay": 1654,
+    "timeWeek": 1794,
+    "timeMonth": 1658,
+    "timeYear": 1327,
     "dailyMinutesDown": {
       "2026-05-07": 170
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1220,
-    "timeDay": 1734,
-    "timeWeek": 1649,
-    "timeMonth": 1609,
-    "timeYear": 1279,
+    "time": 1222,
+    "timeDay": 1639,
+    "timeWeek": 1719,
+    "timeMonth": 1623,
+    "timeYear": 1280,
     "dailyMinutesDown": {
       "2026-05-07": 169
     }
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fsmm.physik.kit.edu.ico",
     "slug": "fs-mattermost",
     "status": "down",
-    "uptime": "68.04%",
+    "uptime": "68.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 198,
+      "2026-11-17": 318,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -419,8 +420,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   },
   {
@@ -435,9 +435,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
-    "timeDay": 1066,
-    "timeWeek": 969,
-    "timeMonth": 1002,
+    "timeDay": 865,
+    "timeWeek": 970,
+    "timeMonth": 1003,
     "timeYear": 965,
     "dailyMinutesDown": {}
   },
@@ -453,9 +453,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 729,
-    "timeDay": 766,
-    "timeWeek": 687,
-    "timeMonth": 720,
+    "timeDay": 828,
+    "timeWeek": 734,
+    "timeMonth": 731,
     "timeYear": 723,
     "dailyMinutesDown": {}
   },
@@ -470,11 +470,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 925,
-    "timeWeek": 841,
-    "timeMonth": 815,
-    "timeYear": 600,
+    "time": 505,
+    "timeDay": 933,
+    "timeWeek": 872,
+    "timeMonth": 826,
+    "timeYear": 602,
     "dailyMinutesDown": {}
   }
 ]
