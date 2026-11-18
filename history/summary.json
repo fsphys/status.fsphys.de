@@ -13,7 +13,7 @@
     "time": 1265,
     "timeDay": 1654,
     "timeWeek": 1794,
-    "timeMonth": 1658,
+    "timeMonth": 1660,
     "timeYear": 1327,
     "dailyMinutesDown": {
       "2026-05-07": 170
@@ -33,7 +33,7 @@
     "time": 1222,
     "timeDay": 1639,
     "timeWeek": 1719,
-    "timeMonth": 1623,
+    "timeMonth": 1610,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2026-05-07": 169
@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fsmm.physik.kit.edu.ico",
     "slug": "fs-mattermost",
     "status": "down",
-    "uptime": "68.01%",
+    "uptime": "67.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-17": 318,
+      "2026-11-18": 123,
+      "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
@@ -419,8 +420,7 @@
       "2025-11-22": 1440,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
-      "2025-11-19": 1440,
-      "2025-11-18": 1440
+      "2025-11-19": 1440
     }
   },
   {
@@ -428,18 +428,20 @@
     "url": "https://meet.physik.kit.edu",
     "icon": "https://icons.duckduckgo.com/ip3/meet.physik.kit.edu.ico",
     "slug": "platform-jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
     "timeDay": 865,
     "timeWeek": 970,
-    "timeMonth": 1003,
-    "timeYear": 965,
-    "dailyMinutesDown": {}
+    "timeMonth": 993,
+    "timeYear": 964,
+    "dailyMinutesDown": {
+      "2026-11-18": 0
+    }
   },
   {
     "name": "Platform - Landing Page",
@@ -455,7 +457,7 @@
     "time": 729,
     "timeDay": 828,
     "timeWeek": 734,
-    "timeMonth": 731,
+    "timeMonth": 730,
     "timeYear": 723,
     "dailyMinutesDown": {}
   },
@@ -473,8 +475,8 @@
     "time": 505,
     "timeDay": 933,
     "timeWeek": 872,
-    "timeMonth": 826,
-    "timeYear": 602,
+    "timeMonth": 823,
+    "timeYear": 603,
     "dailyMinutesDown": {}
   }
 ]
